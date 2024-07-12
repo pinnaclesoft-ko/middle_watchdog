@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKXuWhFqLLJpnK8qwkPp8DBmMPWvkXJEKwNqqfy5Pjebd0vIFNPlS/5MXvxFU57fiP0xRV4VdQkAoFHqpoZxdQ==",
+  "success": true,
+  "projectFilePath": "/home/pinnacle/dev/middle_watchdog/Middleware_WatchDog/Middleware_WatchDog.csproj",
+  "expectedPackageFiles": [
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.configuration.ini/8.0.0/microsoft.extensions.configuration.ini.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/pinnacle/.nuget/packages/nlog/5.3.2/nlog.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+2024-07-12 04:14:42.5281 INFO Program Start
+2024-07-12 04:14:42.6242 ERROR Failed to connect to server: Connection refused [::ffff:192.168.10.55]:2245
+2024-07-12 04:14:42.6267 WARN Server connection lost, restarting application...
+2024-07-12 04:14:42.6295 INFO Application restarted.
+2024-07-12 04:14:47.6307 ERROR Failed to connect to server: Connection refused [::ffff:192.168.10.55]:2245
+2024-07-12 04:14:47.6312 WARN Server connection lost, restarting application...
+2024-07-12 04:14:47.6327 INFO Application restarted.
+2024-07-12 04:14:52.6336 ERROR Failed to connect to server: Connection refused [::ffff:192.168.10.55]:2245
+2024-07-12 04:14:52.6358 WARN Server connection lost, restarting application...
+2024-07-12 04:14:52.6376 INFO Application restarted.
+2024-07-12 04:14:57.6390 ERROR Failed to connect to server: Connection refused [::ffff:192.168.10.55]:2245
+2024-07-12 04:14:57.6395 WARN Server connection lost, restarting application...
+2024-07-12 04:14:57.6408 INFO Application restarted.

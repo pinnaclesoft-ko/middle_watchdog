@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middleware_WatchDog", "Middleware_WatchDog.csproj", "{38AF284F-7535-4BD9-B5F0-1459FD542926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38AF284F-7535-4BD9-B5F0-1459FD542926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AF284F-7535-4BD9-B5F0-1459FD542926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AF284F-7535-4BD9-B5F0-1459FD542926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AF284F-7535-4BD9-B5F0-1459FD542926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B26B0F-8FF1-4CE7-B497-4E1136E7B9A1}
+	EndGlobalSection
+EndGlobal
